@@ -1,0 +1,8 @@
+@import 'styles/variables';
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+:root {
+  font-family: 'JetBrains Mono', monospace;
+  background-color: $background-color;
+  color: $font-color-text;
+}
