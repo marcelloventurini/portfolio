@@ -1,0 +1,14 @@
+@import '../../styles/variables';
+
+.header {
+  margin: $margin-m;
+
+  &__nav {
+    display: flex;
+    gap: $margin-s;
+
+    a {
+      color: $font-color-link;
+    }
+  }
+}
