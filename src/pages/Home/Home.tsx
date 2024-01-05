@@ -4,7 +4,6 @@ import styles from './Home.module.scss'
 const Home = () => {
   return (
     <section className={styles.container}>
-      <img src={photo} alt='foto de perfil Marcello' />
       <div className={styles.container__text}>
         <h1>olá, eu sou o Marcello!</h1>
         <p>
@@ -13,6 +12,9 @@ const Home = () => {
           eficientes.
         </p>
       </div>
+      {/* <div className={styles.container__image}>
+        <img src={photo} alt='foto de perfil Marcello' />
+      </div> */}
     </section>
   )
 }

@@ -1,13 +1,15 @@
 @import '../../styles/variables';
 
 .container {
-  display: flex;
+  display: block;
 
-  &__text {
-    margin-left: $margin-s;
-    
-    p {
-      margin-top: $margin-xs;
-    }
+  p {
+    margin-top: $margin-xs;
+  }
+
+  &__image {
+    display: flex;
+    justify-content: center;
+    margin-top: $margin-m;
   }
 }
