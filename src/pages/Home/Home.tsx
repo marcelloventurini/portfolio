@@ -1,4 +1,4 @@
-import photo from 'assets/images/foto_perfil.png'
+import photo from 'assets/images/foto_perfil_s.png'
 import styles from './Home.module.scss'
 
 const Home = () => {
