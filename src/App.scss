@@ -4,10 +4,13 @@
   max-width: 1440px;
   margin: 0 auto;
   line-height: 1.125rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .container {
+  flex-grow: 1;
   max-width: 570px;
-  margin: 0 auto;
-  margin-top: $margin-l;
+  margin: $margin-l auto;
 }

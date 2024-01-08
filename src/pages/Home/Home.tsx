@@ -1,4 +1,3 @@
-import photo from 'assets/images/foto_perfil_s.png'
 import styles from './Home.module.scss'
 
 const Home = () => {
@@ -12,9 +11,6 @@ const Home = () => {
           eficientes.
         </p>
       </div>
-      {/* <div className={styles.container__image}>
-        <img src={photo} alt='foto de perfil Marcello' />
-      </div> */}
     </section>
   )
 }
