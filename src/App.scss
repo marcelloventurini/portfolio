@@ -10,7 +10,9 @@
 }
 
 .container {
+  display: flex;
+  align-items: center;
   flex-grow: 1;
   max-width: 570px;
-  margin: $margin-l auto;
+  margin: 0 auto;
 }
