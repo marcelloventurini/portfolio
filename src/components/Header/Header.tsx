@@ -1,4 +1,4 @@
-import HeaderLink from 'components/HeaderLink/HeaderLink'
+import HeaderLink from 'components/Header/HeaderLink/HeaderLink'
 import styles from './Header.module.scss'
 
 const Header = () => {
