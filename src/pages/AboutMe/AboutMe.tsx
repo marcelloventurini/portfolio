@@ -11,8 +11,8 @@ const AboutMe = () => {
           semestre da faculdade de Análise e Desenvolvimento de Sistemas.
         </p>
         <p>
-          eu sou um desenvolvedor web com foco em frontend, mas com conhecimento
-          nas principais tecnologias backend.
+          eu sou um desenvolvedor web com foco em frontend e conhecimento nas
+          tecnologias fundamentais do backend.
         </p>
         <p>
           atualmente trabalho com as principais tecnologias do ecossistema
