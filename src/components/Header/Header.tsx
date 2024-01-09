@@ -14,8 +14,8 @@ const Header = () => {
         <HeaderLink to='/trabalhos'>
           trabalhos
         </HeaderLink>
-        <HeaderLink to='#'>
-          links
+        <HeaderLink to='/contato'>
+          contato
         </HeaderLink>
       </nav>
     </header>

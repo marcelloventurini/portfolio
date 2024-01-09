@@ -1,0 +1,10 @@
+@import '../../styles/variables';
+
+.container {
+  display: flex;
+  flex-direction: column;
+
+  &__title {
+    margin-bottom: $margin-xs;
+  }
+}
