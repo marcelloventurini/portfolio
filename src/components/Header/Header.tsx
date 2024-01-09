@@ -11,7 +11,7 @@ const Header = () => {
         <HeaderLink to='/sobremim'>
           sobre mim
         </HeaderLink>
-        <HeaderLink to='#'>
+        <HeaderLink to='/trabalhos'>
           trabalhos
         </HeaderLink>
         <HeaderLink to='#'>

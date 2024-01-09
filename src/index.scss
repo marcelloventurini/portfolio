@@ -1,5 +1,5 @@
 @import 'styles/variables';
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
 
 :root {
   font-family: 'JetBrains Mono', monospace;
@@ -9,4 +9,7 @@
 
 a {
   text-decoration: none;
+  color: $font-color-link;
+  font-weight: 700;
 }
+
